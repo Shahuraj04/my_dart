@@ -1,4 +1,4 @@
 void main(){
 
-    print("Hi");
+    print("H");
 }
